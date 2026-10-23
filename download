@@ -1,0 +1,9 @@
+*.tfstate
+*.tfstate.backup
+.terraform/
+*.tfplan
+tfplan
+.env
+node_modules/
+coverage/
+*.pem
